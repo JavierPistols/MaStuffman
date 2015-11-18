@@ -1,0 +1,13 @@
+﻿Build started 17/11/2015 05:58:22 p. m..
+     1>Project "C:\Universidad\Toria de la comp\3ra Unidad\MaStuffman\MaStuffman\MaStuffman.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Huffman.cpp
+         Huffman.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Universidad\Toria de la comp\3ra Unidad\MaStuffman\Debug\MaStuffman.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Universidad\Toria de la comp\3ra Unidad\MaStuffman\Debug\MaStuffman.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Universidad\Toria de la comp\3ra Unidad\MaStuffman\Debug\MaStuffman.lib" /MACHINE:X86 Debug\Huffman.obj
+         MaStuffman.vcxproj -> C:\Universidad\Toria de la comp\3ra Unidad\MaStuffman\Debug\MaStuffman.exe
+     1>Done Building Project "C:\Universidad\Toria de la comp\3ra Unidad\MaStuffman\MaStuffman\MaStuffman.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.98
